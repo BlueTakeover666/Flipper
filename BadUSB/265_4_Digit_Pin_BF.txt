@@ -1,4 +1,4 @@
-REM This is a BadUSB script with a lot of 4 digit password combinations.  Target: Android devices
+This is a BadUSB script with a lot of 4 digit password combinations.  Target: Android devices
 DELAY 5000
 STRING 1234
 ENTER
